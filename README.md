@@ -1,2 +1,2 @@
-# email_spammer
+# email spammer
 python script to send multiple spam emails to a target acount
